@@ -1,4 +1,4 @@
-# HandWriting-Recognition-Systems
+# Handwriting-Recognition-Systems
 
 ![hand](https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-System/assets/94178842/cbe43c75-f7ad-4e6e-bb1d-7eeeb1b81bc9)
 
