@@ -26,7 +26,7 @@ Handwriting recognition systems have various applications, including digitizing 
 
 It's worth noting that the performance of a handwriting recognition system depends on factors such as the quality of the input image, the complexity of the handwriting style, and the accuracy of the classification model. Advances in machine learning and deep learning techniques have significantly improved the accuracy and reliability of handwriting recognition systems in recent years.
 
-# Handwriting recognition systems 
+# Handwriting Recognition Systems Ways
 
 are designed to convert handwritten text into digital format. There are several ways in which handwriting recognition systems can work:
 
@@ -43,3 +43,33 @@ are designed to convert handwritten text into digital format. There are several 
 6. Contextual Analysis: Handwriting recognition systems can also leverage contextual information to improve accuracy. By considering the context of the surrounding words sentences, the system can make more accurate predictions about ambiguous or illegible characters.
 
 It's important to note that handwriting recognition systems may vary their performance depending on factors such as handwriting style, quality of the input image, and the complexity of the text. Continuous advancements in artificial intelligence and machine learning techniques are continually improving the accuracy and reliability of handwriting recognition systems.
+
+# Jupyter Notebooks workshops will explain every thing that you want to understand :)
+
+# Using_This_Model_As_A_Real_Service_In_Real_App
+
+1- **English-Words**
+
+
+https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/assets/94178842/10d7768a-0cc4-43a3-aaf4-639aa4f03920
+
+
+2- **English-Numbers**
+
+
+https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/assets/94178842/9494e20a-250c-49ae-be60-d5542d1e03a8
+
+
+3- **English-Chars**
+
+
+https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/assets/94178842/b6cd2c1c-1d3b-4f2f-80ae-df3aa049f247
+
+
+4- **Arabic-Chars**
+
+
+https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/assets/94178842/ea8faaa0-7932-4f52-862d-5eb4a6e016f5
+
+
+# Presentation ------> [Speech && Handwriting .pptx](https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/files/12113266/Speech.Handwriting.pptx)
