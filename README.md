@@ -54,10 +54,12 @@ It's important to note that handwriting recognition systems may vary their perfo
 https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/assets/94178842/10d7768a-0cc4-43a3-aaf4-639aa4f03920
 
 
+
 2- **English-Numbers**
 
 
 https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/assets/94178842/9494e20a-250c-49ae-be60-d5542d1e03a8
+
 
 
 3- **English-Chars**
@@ -70,6 +72,7 @@ https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems
 
 
 https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/assets/94178842/ea8faaa0-7932-4f52-862d-5eb4a6e016f5
+
 
 
 # Presentation ------> [Speech && Handwriting .pptx](https://github.com/mohamedezzeldeenhassanmohamed/Handwriting-Recognition-Systems/files/12113266/Speech.Handwriting.pptx)
